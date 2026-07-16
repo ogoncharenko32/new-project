@@ -19,7 +19,9 @@
 5.  git add README.md
 6.  git commit -am "init"
 7.  git push -u origin main
-8.  git branch development
+8.  git branch development or git checkout -b development
 9.  git checkout development
 
 10. Edit README.md file and commit with message: "PROM-42164 #comment step-by-step instructions is added"
+    git add README.md
+    git commit -m "PROM-42164 #comment step-by-step instructions is added"
