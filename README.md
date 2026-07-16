@@ -25,3 +25,7 @@
 10. Edit README.md file and commit with message: "PROM-42164 #comment step-by-step instructions is added"
     git add README.md
     git commit -m "PROM-42164 #comment step-by-step instructions is added"
+
+11. git checkout main
+12. git merge development
+13. git push
